@@ -23,7 +23,8 @@ Going forward, Ben plans on doing a lot more with the wii remote in developing s
 Coding: 
 Coding was done in C# (Visual Studio) and Javascript (Unity).
 
-Link to Unity Code and Javascript: https://drive.google.com/?authuser=0#folders/0B6czzWlkaStkMUNDUlNXQ2ZBYjA
+Link to Unity Code and Javascript: 
+https://drive.google.com/?authuser=0#folders/0B6czzWlkaStkMUNDUlNXQ2ZBYjA
 
 Link to C# code with test server javascript and a trial unity application:
 https://github.com/bennuttle/WiiD.git
@@ -32,32 +33,9 @@ Softwares used:
 Visual Studio 2012: used for writing and editing C# application that tracks the head position using the Wii Remote. 
 Unity: used for 3D visualization and data handling of coordinates passed in from head tracking. 
 
-A flow diagram of major tasks in this project (AKA project pipeline):
-Ben was mainly responsible of gathering data from the Wii Remote using C# and sending it to Unity application which is written in Javascript. I was responsible of using the data Ben gave to me 
-
-Example workspaces:
-Visual Studio for C# development
-Unity workspace. Debugging with simple cases and simple models. 
-
-Visual Studio 2012 development environment displaying custom code.
-WiiD application running, with diagnostic window detailing raw Wii remote data in real time.
- 
-Sample Unity Workspace at the time of debugging.
-
-Sample screenshot of the Unity application running. 
-
-Sample Unity Final Workspace.
-
-Workload: Wataru put in about 35 hours of work, writing . Ben put in around 40 hours, between tinkering with different libraries, hardware, and running to stores to purchase required goods.
-
-Percentage distribution of the effort: Planning - 10%, Coding 3D transformation - 15%, Obtaining 3D model - 10%, Using Unity - 20%, Socketing between C# application and Unity - 30%, Coding Wii Remote head tracking - 15%
-
-Images Captured: We did not need to capture any images or videos for this project during development. Images and video recorded for presentation are linked below.
-
 Is this a reproducible artifact: Yes is a reproducible artifact. Anyone who has Windows can install our software and run it. Also anyone with Visual Studio 2012, Unity, and decent knowledge of coding can edit our project and modify it for their purposes. 
 
 Other facts: Our project imports a First Person Control so other programmers looking to add features (such as creating a First Person Shooter game that implements head tracking) can do so very easily by editing the Unity project files. In addition, models can be switched very easily if you can export the 3D models in formats Unity recognizes for anyone wanting to look at other 3D models. 
 
 Link to Final artifact: 
-https://drive.google.com/folderview?id=0B6czzWlkaStkZWt1d1dpTTZzVTg&usp=sharing
-Video of us demoing is in the folder with the name WiiDSagradaDemo.mp4
+https://www.youtube.com/watch?v=0mWL_bB6DZQ
