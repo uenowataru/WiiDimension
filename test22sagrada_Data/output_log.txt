@@ -1,0 +1,306 @@
+Initialize engine version: 4.1.5f1 (ed5ea3281df6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2418]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.113 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Ben_2\Downloads\WiimotLib_1.7\WiimotLib_1.7\samples\WiimoteTestCS\test22sagrada_Data\Managed\System.Core.dll (this message is harmless)
+Did connect 127.0.0.1:49573
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+at int.Parse (string) <0x0003d>
+at UnityScript.Lang.UnityBuiltins.parseInt (string) <0x00010>
+at (wrapper dynamic-method) UnityScript.Lang.UnityBuiltins.UnityBuiltins$parseInt$System.String (object,object[]) <0x00032>
+at Boo.Lang.Runtime.RuntimeServices.Invoke (object,string,object[]) <0x00096>
+at UnityScript.Lang.UnityRuntimeServices.Invoke (object,string,object[],System.Type) <0x0002e>
+at NewBehaviourScript.Update () <0x006ad>
+
+ 
+(Filename:  Line: -1)
+
